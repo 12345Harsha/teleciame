@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-websockets
-requests
-python-dotenv
